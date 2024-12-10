@@ -1,0 +1,28 @@
+.border{
+   
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    max-width: 50%;
+    box-shadow: 0 4px 6px rgb(226, 203, 203);
+   
+    margin-left: 250px;
+
+}
+img {
+    cursor: pointer;
+    border-radius: 5px;
+    width: 300px;
+    margin: 10px;
+}
+.btn{
+    border: 2px solid black;
+    border-radius: 8px;
+    background-color: red;
+    color: white;
+    font-weight: 600;
+   text-decoration: none;
+    padding: 5px;
+}
+
+
